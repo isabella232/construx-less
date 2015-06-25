@@ -4,7 +4,9 @@
   "description": "Less JIT template compiler plugin for construx",
   "main": "index.js",
   "scripts": {
-    "test": "tap test/*.js"
+    "test": "tap test/*.js",
+    "cover": "nyc npm test && nyc report",
+    "lint": "jshint -c .jshintrc index.js"
   },
   "repository": {
     "type": "git",
