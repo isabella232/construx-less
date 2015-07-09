@@ -1,6 +1,6 @@
 {
   "name": "construx-less",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Less JIT template compiler plugin for construx",
   "main": "index.js",
   "scripts": {
