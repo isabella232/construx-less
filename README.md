@@ -1,7 +1,5 @@
 # construx-less
 
-Lead Maintainer: [Matt Edelman](https://github.com/grawk)
-
 [![Build Status](https://travis-ci.org/krakenjs/construx-star.svg?branch=master)](https://travis-ci.org/krakenjs/construx-star)
 [![NPM version](https://badge.fury.io/js/construx-star.png)](http://badge.fury.io/js/construx-star)
 
@@ -29,4 +27,3 @@ Where you configure your construx plugins:
 ```
 
 _Note: See [construx README](https://github.com/krakenjs/construx/blob/master/README.md) for general usage of construx_
-
